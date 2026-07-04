@@ -1,4 +1,4 @@
 Hello
 My name is gbolahan
-I am learning Git and Github
+Today I completed my first GitHub project. 🚀
 I made my first Github push.
